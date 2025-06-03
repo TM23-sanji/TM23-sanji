@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on ... Rust search engine
 - 🌱 I’m currently learning ... Rust
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... Open Source Contribution
 - 💬 Ask me about ... Nothing
 - 📫 How to reach me: ... X
-- 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... Pirates are cool
 
 <h3 align="left">Connect with me:</h3>
