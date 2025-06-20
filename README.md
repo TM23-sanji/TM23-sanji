@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tm</h1>
 <h3 align="center">CS Student | AI & Web Dev Enthusiast</h3>
 
-- 🔭 I’m currently working on ... Rust search engine
-- 🌱 I’m currently learning ... Rust
+- 🔭 I’m currently working on ... Walltribe 
+- 🌱 I’m currently learning ... ML 
 - 🤔 I’m looking for help with ... Open Source Contribution
 - 💬 Ask me about ... Nothing
 - 📫 How to reach me: ... X
